@@ -1,4 +1,4 @@
-/* *{border:1px solid red} */
+ *{border:1px solid red} 
 body {
     display: flex;
     justify-content: space-between;
@@ -113,7 +113,7 @@ button {
     height: 225px;
     background-color:gray;
     font-weight:normal;
-    margin-top: 50px;
+    margin-top: 91px;
     margin-bottom: auto;
     justify-content: center;
     align-items: center;
